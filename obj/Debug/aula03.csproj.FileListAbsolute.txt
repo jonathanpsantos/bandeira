@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\bin\Debug\aula03.exe.config
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\bin\Debug\aula03.exe
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\bin\Debug\aula03.pdb
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\obj\Debug\aula03.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\obj\Debug\aula03.FormCobinacoes.resources
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\obj\Debug\aula03.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\obj\Debug\aula03.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\obj\Debug\aula03.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\obj\Debug\aula03.exe
+C:\Users\Laboratorio-Info\source\repos\aula03\aula03\obj\Debug\aula03.pdb
